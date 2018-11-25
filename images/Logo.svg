@@ -1,0 +1,20 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#37baba" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(21.75878143310547,0,0,4.961904525756836,-2875.0912284851074,-486.01425674557686) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="147.4375" x="138.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#000" transform="matrix(19.058063781740202,0,0,4.745075225830078,-7109.40021539392,-998.5891988873482) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="261.4375" x="377.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="210" id="svg_15" y="211.4375" x="43.5" stroke-width="0" stroke="#000" fill="#000000">S</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="200" id="svg_16" y="214.4375" x="139.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="210" id="svg_17" y="216.4375" x="259.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">L</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="210" id="svg_18" y="217.4375" x="372.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Z</text>
+  <path id="svg_19" d="m531.33847,225.477138c-9.640633,-0.903809 -14.845969,-9.352458 -5.213002,-12.447339c10.042133,-3.051593 16.014603,7.811964 5.045431,8.873801c-6.006393,1.327075 7.798336,3.549432 10.371294,1.317967c8.039583,-2.294968 6.797666,-8.268104 4.863383,-12.474805c-0.671273,-3.222749 -1.510742,-6.672982 -8.405288,-4.841391c-16.633661,0.789279 -29.802526,-9.162819 -28.47978,-18.47297c0.449078,-8.781543 12.645624,-14.796167 21.676867,-20.894312c-2.964978,-7.9779 -3.860227,-17.194561 4.734963,-24.146691c7.91717,-5.651318 11.935736,4.690133 13.274959,8.199264c2.974758,8.202587 -2.956659,16.822201 -12.826433,22.604331c0.942414,2.742694 1.869671,5.487222 2.830082,8.227748c10.429859,-1.187603 20.385641,4.010059 20.954515,10.098141c1.611579,5.49763 -4.367353,10.689448 -12.533967,13.052172c-0.134287,4.720882 4.288764,9.617849 2.699501,14.492842c-1.526253,5.040306 -11.110806,7.51193 -18.992519,6.411243l-0.000005,0zm10.888421,-21.508341c2.954947,-3.271325 -2.404912,-9.04872 -2.699191,-13.247871c0.115738,-7.322422 -13.054157,1.418426 -9.137715,5.014295c1.160954,2.127763 11.237813,6.029747 1.981419,3.623238c-9.663921,-3.41113 -9.22129,-12.187793 -0.391242,-15.893563c7.408095,-0.967762 2.883512,-6.797941 1.487642,-8.712945c-9.098718,4.890401 -19.411721,11.048395 -17.842549,18.963547c1.182002,7.418836 14.895234,11.919344 26.601635,10.2533l0,-0.000003zm6.122006,-1.416076c8.678026,-3.285599 8.393226,-11.908416 -1.101164,-14.582809c-10.130565,-3.157001 -3.191773,5.11381 -3.006152,8.261974c1.405915,1.205157 0.60952,8.227468 4.107316,6.320835zm-10.695192,-39.525157c5.338085,-3.808454 11.440092,-9.306686 7.691183,-14.341966c-8.073255,-3.142952 -12.559625,5.354459 -12.758175,9.07529c-0.073448,2.41267 -0.676322,10.728731 5.066997,5.266676l0,0l-0.000005,0z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#C97A86"/>
+ </g>
+</svg>
